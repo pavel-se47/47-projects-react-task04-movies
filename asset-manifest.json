@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/47-projects-react-task05-movies/static/css/main.6d178c5b.css",
-    "main.js": "/47-projects-react-task05-movies/static/js/main.5442ff25.js",
-    "home-page.js": "/47-projects-react-task05-movies/static/js/home-page.20748bc3.chunk.js",
-    "search-page.js": "/47-projects-react-task05-movies/static/js/search-page.39bcc53e.chunk.js",
-    "details-page.js": "/47-projects-react-task05-movies/static/js/details-page.f61ba75b.chunk.js",
-    "static/js/442.632c6f6a.chunk.js": "/47-projects-react-task05-movies/static/js/442.632c6f6a.chunk.js",
-    "index.html": "/47-projects-react-task05-movies/index.html",
-    "main.6d178c5b.css.map": "/47-projects-react-task05-movies/static/css/main.6d178c5b.css.map",
-    "main.5442ff25.js.map": "/47-projects-react-task05-movies/static/js/main.5442ff25.js.map",
-    "home-page.20748bc3.chunk.js.map": "/47-projects-react-task05-movies/static/js/home-page.20748bc3.chunk.js.map",
-    "search-page.39bcc53e.chunk.js.map": "/47-projects-react-task05-movies/static/js/search-page.39bcc53e.chunk.js.map",
-    "details-page.f61ba75b.chunk.js.map": "/47-projects-react-task05-movies/static/js/details-page.f61ba75b.chunk.js.map",
-    "442.632c6f6a.chunk.js.map": "/47-projects-react-task05-movies/static/js/442.632c6f6a.chunk.js.map"
+    "main.css": "/47-projects-react-task04-movies/static/css/main.6d178c5b.css",
+    "main.js": "/47-projects-react-task04-movies/static/js/main.d89a2217.js",
+    "home-page.js": "/47-projects-react-task04-movies/static/js/home-page.20748bc3.chunk.js",
+    "search-page.js": "/47-projects-react-task04-movies/static/js/search-page.39bcc53e.chunk.js",
+    "details-page.js": "/47-projects-react-task04-movies/static/js/details-page.f61ba75b.chunk.js",
+    "static/js/442.632c6f6a.chunk.js": "/47-projects-react-task04-movies/static/js/442.632c6f6a.chunk.js",
+    "index.html": "/47-projects-react-task04-movies/index.html",
+    "main.6d178c5b.css.map": "/47-projects-react-task04-movies/static/css/main.6d178c5b.css.map",
+    "main.d89a2217.js.map": "/47-projects-react-task04-movies/static/js/main.d89a2217.js.map",
+    "home-page.20748bc3.chunk.js.map": "/47-projects-react-task04-movies/static/js/home-page.20748bc3.chunk.js.map",
+    "search-page.39bcc53e.chunk.js.map": "/47-projects-react-task04-movies/static/js/search-page.39bcc53e.chunk.js.map",
+    "details-page.f61ba75b.chunk.js.map": "/47-projects-react-task04-movies/static/js/details-page.f61ba75b.chunk.js.map",
+    "442.632c6f6a.chunk.js.map": "/47-projects-react-task04-movies/static/js/442.632c6f6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d178c5b.css",
-    "static/js/main.5442ff25.js"
+    "static/js/main.d89a2217.js"
   ]
 }
